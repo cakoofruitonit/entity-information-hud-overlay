@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "guimod",
+	"version": "${version}",
+	"name": "Entity Information HUD Overlay",
+	"description": "Displays entity information including name, health, and armor statistics",
+	"authors": [
+		"superduperxdhehe"
+	],
+	"contact": {
+
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/guimod/hacking.jpg",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.superduperxdhehe.guimod.GUIMod"
+		],
+		"client": [
+			"net.superduperxdhehe.guimod.GUIModClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
