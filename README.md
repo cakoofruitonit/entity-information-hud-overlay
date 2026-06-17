@@ -1,5 +1,11 @@
 # Entity Information HUD Overlay (Minecraft Fabric 1.21.11)
-HUD overlay displays the entities' name, health, and armor.  Simply look at an entity (player, hostile mob, animal, tile entity, etc.) and the overlay will appear on the top center of the screen.  To change the size of the overlay, navigate to Options > Video Settings, and in GUI Scale, set to preference (author's recommendation: 3).
+
+### Description
+HUD overlay displays the entities' name, health, and armor.  Simply look at an entity (player, hostile mob, animal, tile entity, etc.) and the overlay will appear on the top center of the screen.  
+
+### How do I change the size:
+
+To change the size of the overlay, navigate to Options > Video Settings, and in GUI Scale, set to preference (author's recommendation: 3).
 
 ### Example of HUD overlay:
 
